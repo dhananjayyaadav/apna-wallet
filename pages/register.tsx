@@ -17,11 +17,11 @@ const Register: React.FC = () => {
     <div className="flex flex-1 flex-col items-center justify-center">
       <h1 className="text-hero text-blue-dark text-center mb-[8vh]">
         Are you a<br />
-        parent or a child?
+        Adult or child?
       </h1>
       <div className="flex">
         <Button className="mr-12 bg-blue-dark" onClick={handleParent}>
-          I am a parent
+         I am a Adult 
         </Button>
         <Button className="bg-blue-oil">I am a child</Button>
       </div>
