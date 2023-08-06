@@ -1,4 +1,3 @@
-# DefiKids
 
 A platform to empower the next generation with the use of de-fi tools. It is designed for Digital Asset Transaction, managed by parents.
 
