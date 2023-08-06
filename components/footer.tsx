@@ -29,8 +29,8 @@ const Footer: React.FC = () => {
       </div>
       <div className="flex items-center">
         <p className="cursor-pointer ml-8">
-          <Link href="https://twitter.com/defikids_">
-            <a> Twitter - @defikids_</a>
+          <Link href="https://twitter.com/dhananjayyaadav">
+            <a> Twitter - @apnawallet</a>
           </Link>
         </p>
         {/* <p className="cursor-pointer">FAQ</p> */}
@@ -40,7 +40,7 @@ const Footer: React.FC = () => {
             <a> Crypto Glossary</a>
           </Link>
         </p>
-        <p className="cursor-pointer ml-8"> DefiKids @ 2022</p>
+        <p className="cursor-pointer ml-8"> ApnaWallet @ 2023</p>
       </div>
     </div>
   );
