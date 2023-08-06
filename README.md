@@ -1,10 +1,10 @@
 
-A platform to empower the next generation with the use of de-fi tools. It is designed for Digital Asset Transaction, managed by parents.
+A platform to empower the next generation with the use of cryptowallet tools. It is designed for Digital Asset Transaction, managed by parents.
 
 
 ## Description
 
-Crypto doesn't have to be complicated. The DefiKids platform is designed to help you and your family learn how to comfortably use crypto in your everyday life. It's designed for kids, managed by parents.
+Crypto doesn't have to be complicated. The Kids platform is designed to help you and your family learn how to comfortably use crypto in your everyday life. It's designed for kids, managed by parents.
 
 ## Problem
 
@@ -16,7 +16,7 @@ How do you teach your children to use crypto safely and confidently.
 
 - Funds automatically stream to the child creating real-time cash flow.
 
-- Children will have the ability to use De-Fi tools such as staking & time-locks. This introduces the concepts of savings, interest and compound interest.
+- Children will have the ability to use crypto tools such as staking & time-locks. This introduces the concepts of savings, interest and compound interest.
 
 - Funds can be allocated for the purchase of future goods and services through the use of time-locks. This ensures that children have the funds they need when they need it.
 
