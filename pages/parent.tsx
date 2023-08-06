@@ -129,7 +129,7 @@ const Parent: React.FC = () => {
     <div>
       <h1 className="text-xxl text-blue-dark mb-[5vh] ">
         Welcome to your
-        <br /> parent account,
+        <br /> wallet account,
       </h1>
       <div className="bg-blue-dark px-6 py-8 rounded-xl text-white flex justify-between items-end stretch">
         <div className="flex flex-col items-start">
