@@ -16,7 +16,7 @@ export default function Home() {
       <div className="flex flex-1 flex-col items-center justify-center">
         <h1 className="text-hero text-blue-dark text-center mb-[8vh]">
           You Deserve Easy Access to 
-          <br /> to use <span className="text-orange">Cryptocurrencies</span>,
+          <br /><span className="text-orange">Cryptocurrencies</span>
           <br />
         </h1>
         <Login />
