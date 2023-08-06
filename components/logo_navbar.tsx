@@ -15,7 +15,7 @@ const LogoNavbar: React.FC<Omit<ImageProps, "src" | "alt">> = ({
         width={width}
         height={height}
       />
-      <h1 className="text-blue-dark text-[52px] ml-5">DefiKids</h1>
+      <h1 className="text-blue-dark text-[52px] ml-5">ApnaWallet</h1>
     </div>
   );
 };
