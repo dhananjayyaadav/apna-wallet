@@ -15,17 +15,17 @@ export default function Home() {
       `}</style>
       <div className="flex flex-1 flex-col items-center justify-center">
         <h1 className="text-hero text-blue-dark text-center mb-[8vh]">
-          Teach your kids
+          You Deserve Easy Access to Cryptocurrencies
           <br /> to use <span className="text-orange">crypto</span>,
           <br />
-          <UnderlineText className="text-blue-oil" color="bg-orange">
-            safely
-          </UnderlineText>{" "}
+          <h1 className="text-blue-oil" color="bg-orange">
+            Buy, store, collect NFTs,
+          </Text>{" "}
           and
           <br />
-          <UnderlineText className="text-blue-oil" color="bg-blue-dark">
-            confidently
-          </UnderlineText>
+          <Text className="text-blue-oil" color="bg-blue-dark">
+            exchange & earn cryptosafely
+          </Text>
         </h1>
         <Login />
       </div>
