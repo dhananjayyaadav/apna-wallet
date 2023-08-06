@@ -1,8 +1,7 @@
 # DefiKids
 
-A platform to empower the next generation with the use of de-fi tools. It is designed for kids, managed by parents.
+A platform to empower the next generation with the use of de-fi tools. It is designed for Digital Asset Transaction, managed by parents.
 
-<img src="public/defikids-cover.png" href="https://allocate.vercel.app" alt="Logo" >
 
 ## Description
 
@@ -101,22 +100,3 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Stargazers ⭐ Thank you!
-
-[![Stargazers repo roster for @NathanTarbert/DefiKids](https://reporoster.com/stars/notext/NathanTarbert/DefiKids)](https://github.com/NathanTarbert/DefiKids/stargazers)
-
-## Community
-
-Join our [Discord Community](https://discord.gg/bDGMYNa8Ng) of engaged individuals looking to teach their kids about crypto.
-
-Follow us on [Twitter](https://twitter.com/defikids_)
-
-## Test the app
-
-Check it out [here](https://defikids-nathantarbert.vercel.app/)
-
-## Contact Us
-
-[📬 Email](https://defikidsproject@gmail.com)
-
