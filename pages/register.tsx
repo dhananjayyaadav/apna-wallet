@@ -21,9 +21,9 @@ const Register: React.FC = () => {
       </h1>
       <div className="flex">
         <Button className="mr-12 bg-blue-dark" onClick={handleParent}>
-         I am a Adult 
+         I'm an Adult 
         </Button>
-        <Button className="bg-blue-oil">I am a child</Button>
+        <Button className="bg-blue-oil">I'm an child</Button>
       </div>
     </div>
   );
