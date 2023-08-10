@@ -16,8 +16,8 @@ const Register: React.FC = () => {
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
       <h1 className="text-hero text-blue-dark text-center mb-[8vh]">
-        Are you a<br />
-        Adult?
+       Apna Wallet equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets.<br />
+        digital assets?
       </h1>
       <div className="flex">
         <Button className="mr-12 bg-blue-dark" onClick={handleParent}>
