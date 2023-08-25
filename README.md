@@ -1,10 +1,7 @@
 
-A platform to empower the next generation with the use of cryptowallet tools. It is designed for Digital Asset Transaction, managed by parents.
-
-
 ## Description
 
-Crypto doesn't have to be complicated. The Kids platform is designed to help you and your family learn how to comfortably use crypto in your everyday life. It's designed for kids, managed by parents.
+Crypto doesn't have to be complicated. The platform is designed to help you and learn how to comfortably use crypto in your everyday life. It's designed for People, managed by crypto wallet.
 
 ## Problem
 
